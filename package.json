@@ -1,0 +1,14 @@
+{
+  "name": "10x-js-assignments",
+  "version": "1.0.0",
+  "description": "JavaScript Assignments",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Yashendra Goyal",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
