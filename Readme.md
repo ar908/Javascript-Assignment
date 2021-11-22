@@ -1,4 +1,4 @@
-# 10 Academy JavaScript Assignments
+# 10x Academy JavaScript Assignments
 
 ## Curated list of JavaScript Assignments to make you familiar with the concepts of the language
 
