@@ -1,4 +1,4 @@
-const BMICalculator = require("../assignments/bmi_calculator");
+const BMICalculator = require("../assignments/bmi_calculator/bmi_calculator");
 
 describe('BMI Calculator Test Cases', () => {
     test('Calculate BMI for mass 50 and height 5', () => {

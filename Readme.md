@@ -5,7 +5,8 @@
 <br />  
   
 [Assignments:](assignments)
-* [BMI Calculator](assignments/BMICalculator.md)
+* [BMI Calculator](assignments/bmi_calculator/BMICalculator.md)
+* [Favourite Movie](assignments/favourite_movie/FavouriteMovie.md)
 
 ## Please follow these steps before submitting
 * Create a new branch off master to code your solution into
