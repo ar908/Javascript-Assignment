@@ -4,6 +4,7 @@
   "description": "JavaScript Assignments",
   "main": "index.js",
   "scripts": {
+    "test:file": "jest -t",
     "test": "jest"
   },
   "author": "Yashendra Goyal",

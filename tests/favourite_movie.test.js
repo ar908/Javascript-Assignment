@@ -1,6 +1,6 @@
 const favouriteMovie = require("../assignments/favourite_movie/favourite_movie");
 
-describe('Favourite Movie', () => {
+describe('favourite_movie', () => {
     test('Add movie Seven', () => {
         expect(favouriteMovie("add", "Seven")).toEqual(["Seven"]);
     });

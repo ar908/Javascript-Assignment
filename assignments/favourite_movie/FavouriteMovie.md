@@ -20,3 +20,6 @@ Output - ["Lucy", "The GodFather"]
 
 Input - remove
 Output - ["Lucy"]
+```
+
+Run the test cases using ```npm run test:file favourite_movie``` to see if you code is fine
