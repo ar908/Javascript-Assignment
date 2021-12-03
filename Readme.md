@@ -11,6 +11,7 @@
 * [Run Callback](assignments/run_callback/RunCallback.md)
 * [Play With Array](assignments/play_with_array/PlayWithArray.md)
 * [Create Object](assignments/create_object/CreateObject.md)
+* [Todo List](assignments/todo_list/TodoList.md)
 
 ## Please follow these steps before submitting
 * Create a new branch off master to code your solution into
